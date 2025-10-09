@@ -1,0 +1,45 @@
+﻿# Build folders
+bin/
+obj/
+out/
+
+# Rider project files
+.idea/
+*.sln.iml
+*.DotSettings.user
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet packages
+*.nupkg
+packages/
+# Package restore will handle these, no need to check in
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.tlog
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+*.Publish.xml
+
+# Entity Framework Core
+*.db
+*.db-journal
+Migrations/
+
+# Env
+*.env

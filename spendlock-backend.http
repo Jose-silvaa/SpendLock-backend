@@ -1,0 +1,6 @@
+@spendlock_backend_HostAddress = http://localhost:5080
+
+GET {{spendlock_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
