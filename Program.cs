@@ -12,6 +12,7 @@ Env.Load();
 
 builder.Services.AddSingleton<SupabaseService>();
 builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<VisitorService>();
 builder.Services.AddScoped<AuthUsersService>();
 
 builder.Services.AddControllers();

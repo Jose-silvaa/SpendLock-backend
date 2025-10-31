@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using spendlock_backend.Dtos.User;
-using spendlock_backend.SeedWork;
 using spendlock_backend.Services;
 
 namespace spendlock_backend.Controllers;
